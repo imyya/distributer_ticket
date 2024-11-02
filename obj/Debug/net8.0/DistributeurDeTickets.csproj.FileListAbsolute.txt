@@ -1,0 +1,14 @@
+/home/mya/DistributeurDeTickets/bin/Debug/net8.0/DistributeurDeTickets
+/home/mya/DistributeurDeTickets/bin/Debug/net8.0/DistributeurDeTickets.deps.json
+/home/mya/DistributeurDeTickets/bin/Debug/net8.0/DistributeurDeTickets.runtimeconfig.json
+/home/mya/DistributeurDeTickets/bin/Debug/net8.0/DistributeurDeTickets.dll
+/home/mya/DistributeurDeTickets/bin/Debug/net8.0/DistributeurDeTickets.pdb
+/home/mya/DistributeurDeTickets/obj/Debug/net8.0/DistributeurDeTickets.GeneratedMSBuildEditorConfig.editorconfig
+/home/mya/DistributeurDeTickets/obj/Debug/net8.0/DistributeurDeTickets.AssemblyInfoInputs.cache
+/home/mya/DistributeurDeTickets/obj/Debug/net8.0/DistributeurDeTickets.AssemblyInfo.cs
+/home/mya/DistributeurDeTickets/obj/Debug/net8.0/DistributeurDeTickets.csproj.CoreCompileInputs.cache
+/home/mya/DistributeurDeTickets/obj/Debug/net8.0/DistributeurDeTickets.dll
+/home/mya/DistributeurDeTickets/obj/Debug/net8.0/refint/DistributeurDeTickets.dll
+/home/mya/DistributeurDeTickets/obj/Debug/net8.0/DistributeurDeTickets.pdb
+/home/mya/DistributeurDeTickets/obj/Debug/net8.0/DistributeurDeTickets.genruntimeconfig.cache
+/home/mya/DistributeurDeTickets/obj/Debug/net8.0/ref/DistributeurDeTickets.dll
